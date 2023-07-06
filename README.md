@@ -3,7 +3,7 @@
 An rehostable version of [this site](https://teeko.jackboxgames.com). 
 To translate use [this file](https://github.com/JackboxArchivists/teekoweb/blob/main/bundles.jackbox.tv/main/%40teeko-web/80627b6f.js).
 
-Live current site version: [click me](https://bur.is-a.dev/tee)
+Live current site version: [click me](https://tee.burs.ml/)
 
 ## Requirements
 
