@@ -1,7 +1,7 @@
 # Tee K.O. Web
 
 An rehostable version of [this site](https://teeko.jackboxgames.com). 
-To translate use [this file](https://github.com/BurAndBY/tee/blob/main/bundles.jackbox.tv/main/%40teeko-web/80627b6f.js), if someone can help beautify this file please send a pull request.
+To translate use [this file](https://github.com/JackboxArchivists/teekoweb/blob/main/bundles.jackbox.tv/main/%40teeko-web/80627b6f.js), if someone can help beautify this file please send a pull request.
 
 Live current site version: [click me](https://bur.is-a.dev/tee)
 
