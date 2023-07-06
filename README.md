@@ -30,4 +30,4 @@ Handler = functools.partial(http.server.SimpleHTTPRequestHandler, directory='loc
 
 
 ---
-*I don't really know what to write here. If you want to help improve this readme, please pull request this repo.*
+This project is not endorsed or made by Jackbox Games.
